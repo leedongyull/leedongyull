@@ -3,7 +3,7 @@
 
 ###Hi There
 
-<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedy1471)](https://solved.ac/leedy1471/)</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedy1471)](https://solved.ac/leedy1471/)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
